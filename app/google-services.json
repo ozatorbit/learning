@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1058378520897",
+    "project_id": "learningdemo-c3a69",
+    "storage_bucket": "learningdemo-c3a69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058378520897:android:41f8fc740c1f0b516ae9c0",
+        "android_client_info": {
+          "package_name": "com.desire.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058378520897-vhnbg4quigi00hoas2mmnrq1n8jmfn6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desire.learning",
+            "certificate_hash": "6fd471b016f943e354a129af732754bced1ac4e5"
+          }
+        },
+        {
+          "client_id": "1058378520897-0g4klojer7mp1eku7lestsev5125tisk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6FlL3zHZjiTbvvkLOAjZzS_nJCFO8-mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058378520897-0g4klojer7mp1eku7lestsev5125tisk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
